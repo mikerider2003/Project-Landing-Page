@@ -94,3 +94,22 @@ footer {
     color: white;
     background-color: #283D3B;
 }
+
+/* Container-two */
+.container-two {
+    background-color: #197278;
+    padding: 50px 100px 50px;
+}
+
+.quote {
+    font-size: 30px;
+
+    color: #EDDDD4;
+}
+
+.signature {
+    text-align: end;
+    font-weight: bold;
+}
+
+/* container-three */
