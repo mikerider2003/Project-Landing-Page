@@ -11,6 +11,8 @@
 
 ## Code description
 ### HTML
-
+- The HTML is divided into 3 sections: header, main and footer.
 
 ### CSS
+- The CSS is divided into 3 sections: header, main and footer.
+
