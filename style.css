@@ -6,7 +6,7 @@ body {
 header {
     background-color: #283D3B;
     color: white;
-    padding: 0 100px 50px;
+    padding: 0 150px 50px;
 }
 
 nav {
@@ -63,13 +63,13 @@ button {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 0 100px 50px;
+    padding: 0 150px 50px;
     text-align: center;
 }
 
 .items-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
 }
@@ -98,7 +98,7 @@ footer {
 /* Container-two */
 .container-two {
     background-color: #197278;
-    padding: 50px 100px 50px;
+    padding: 50px 150px 50px;
 }
 
 .quote {
@@ -113,3 +113,30 @@ footer {
 }
 
 /* container-three */
+.container-three {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #C44536;
+    border-radius: 10px;
+    margin: 50px 150px 50px;
+}
+
+.text {
+    color: #EDDDD4;
+    margin: 60px 40px;
+}
+
+.text p {
+    margin: 0;
+}
+
+.text .strong {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.container-three button {
+    border: 2px solid #EDDDD4;
+    margin-right: 40px;
+}
